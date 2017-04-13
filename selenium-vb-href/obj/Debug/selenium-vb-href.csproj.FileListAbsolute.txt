@@ -1,0 +1,12 @@
+c:\users\3dcad03\documents\visual studio 2015\Projects\selenium-vb-href\selenium-vb-href\bin\Debug\selenium-vb-href.exe.config
+C:\Users\3DCAD03\Documents\Visual Studio 2015\Projects\selenium-vb-href\selenium-vb-href\bin\Debug\selenium-vb-href.exe
+C:\Users\3DCAD03\Documents\Visual Studio 2015\Projects\selenium-vb-href\selenium-vb-href\bin\Debug\selenium-vb-href.pdb
+C:\Users\3DCAD03\Documents\Visual Studio 2015\Projects\selenium-vb-href\selenium-vb-href\bin\Debug\ThoughtWorks.Selenium.Core.dll
+C:\Users\3DCAD03\Documents\Visual Studio 2015\Projects\selenium-vb-href\selenium-vb-href\bin\Debug\WebDriver.dll
+C:\Users\3DCAD03\Documents\Visual Studio 2015\Projects\selenium-vb-href\selenium-vb-href\bin\Debug\WebDriver.Support.dll
+C:\Users\3DCAD03\Documents\Visual Studio 2015\Projects\selenium-vb-href\selenium-vb-href\bin\Debug\ThoughtWorks.Selenium.Core.xml
+C:\Users\3DCAD03\Documents\Visual Studio 2015\Projects\selenium-vb-href\selenium-vb-href\bin\Debug\WebDriver.xml
+C:\Users\3DCAD03\Documents\Visual Studio 2015\Projects\selenium-vb-href\selenium-vb-href\bin\Debug\WebDriver.Support.xml
+C:\Users\3DCAD03\Documents\Visual Studio 2015\Projects\selenium-vb-href\selenium-vb-href\obj\Debug\selenium-vb-href.csprojResolveAssemblyReference.cache
+C:\Users\3DCAD03\Documents\Visual Studio 2015\Projects\selenium-vb-href\selenium-vb-href\obj\Debug\selenium-vb-href.exe
+C:\Users\3DCAD03\Documents\Visual Studio 2015\Projects\selenium-vb-href\selenium-vb-href\obj\Debug\selenium-vb-href.pdb
